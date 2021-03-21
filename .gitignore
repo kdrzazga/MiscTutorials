@@ -1,3 +1,7 @@
+*.iml
+Maven*
+*/classes/*
+
 # Compiled class file
 *.class
 

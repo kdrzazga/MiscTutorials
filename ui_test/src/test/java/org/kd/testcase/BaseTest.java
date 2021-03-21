@@ -6,5 +6,7 @@ public abstract class BaseTest {
 
     static {
         Configuration.startMaximized = true;
+        Configuration.browser = "Chrome";
+        Configuration.headless = false;
     }
 }
